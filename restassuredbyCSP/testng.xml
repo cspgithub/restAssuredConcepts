@@ -5,5 +5,5 @@
     <classes>
         <class name="restassuredbyCSPTest.BDDStyleGetRequestWithStaticImport"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- 1234gitchangesTest -->
 </suite> <!-- Suite -->
